@@ -1,0 +1,12 @@
+v1.0.0
+
+A Password Manager program to add new passwords and view existing passwords is created with:-
+	- functions defined and called
+	- a while loop to run the program continously until the user needs to quit
+	- if else conditions to execute statements based on the user's choice
+	- a with keyword to automatically close the file
+	- open() to open a file and close() to manually close the file
+	- a for loop to iterate through the lines in a file
+	- a rstrip() to remove unwanted trailing characters
+	
+	
