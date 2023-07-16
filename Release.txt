@@ -8,5 +8,9 @@ A Password Manager program to add new passwords and view existing passwords is c
 	- open() to open a file and close() to manually close the file
 	- a for loop to iterate through the lines in a file
 	- a rstrip() to remove unwanted trailing characters
+	- cryptography package installed for using the Fernet module for encryption.
+	- a key generated with the help of Fernet module to encrypt the password.
+	- password added in Password.txt file encrypted using encrypt()
+	- password viewed from Password.txt file decrypted using decrypt()
 	
 	
